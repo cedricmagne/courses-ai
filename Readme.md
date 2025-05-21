@@ -23,4 +23,36 @@
 
 
 # Outils
-TXM
+[TXM](https://txm.gitpages.huma-num.fr/textometrie)
+
+[Techaro](https://anubis.techaro.lol)
+
+# DB Client
+[DuckDB](https://duckdb.org)
+
+[DuckDB UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
+
+# Math
+[Math](https://docs.python.org/fr/3.13/library/math.html)
+
+[Haversine](https://fr.wikipedia.org/wiki/Formule_de_haversine)
+
+[Haversine_distances](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.haversine_distances.html)
+
+# Libraries
+[Pandas](https://pandas.pydata.org/docs/reference/frame.html)
+
+[Pola.rs](https://pola.rs)
+
+[Numpy](https://numpy.org/doc/stable/reference/arrays.html)
+
+
+# Data Viz
+[Matplotlib](https://matplotlib.org/stable/)
+
+[Plotly](https://plotly.com/python/)
+
+# Framework
+[Streamlit](https://docs.streamlit.io/)
+
+[Pydeck](https://deckgl.readthedocs.io/en/latest/index.html)
