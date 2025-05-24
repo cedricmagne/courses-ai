@@ -67,23 +67,37 @@ https://www.apolloresearch.ai
 ## Frameworks
 
 [MetaGPT](https://github.com/FoundationAgents/MetaGPT)
+
 [Agno](https://github.com/agno-agi/agno)
+
 [CamelAI](https://www.camel-ai.org/)
+
 [AutoGPT](https://agpt.co/)
+
 [AutoGen](https://microsoft.github.io/autogen/stable/)
+
 [SuperAGI](https://superagi.com/)
+
 [LangChain](https://python.langchain.com/docs/introduction/)
+
 [LlamaIndex](https://www.llamaindex.ai/)
+
 [CrewAI](https://www.crewai.com/)
+
 [AIOS](https://github.com/agiresearch/AIOS)
 
 ## Computer and Browser Use
 
 [OpenInterpreter](https://github.com/OpenInterpreter/open-interpreter)
+
 [Self Operating Computer](https://github.com/OthersideAI/self-operating-computer)
+
 [Agent System](https://github.com/simular-ai/Agent-S)
+
 [LaVague](https://github.com/lavague-ai/LaVague)
+
 [Playwright](https://github.com/microsoft/playwright)
+
 [Puppeteer](https://pptr.dev/)
 
 ## Voice
@@ -91,50 +105,67 @@ https://www.apolloresearch.ai
 ### Speech-to-Text
 
 [Whisper](https://github.com/openai/whisper)
+
 [StableTS](https://github.com/jianfch/stable-ts)
+
 [Speaker Diarization](https://huggingface.co/pyannote/speaker-diarization-3.1)
 
 ### Text-to-Speech
 
 [ChatTTS](https://github.com/2noise/ChatTTS)
+
 [ElevenLabs](https://elevenlabs.io/)
+
 [Cartesia](https://cartesia.ai/)
 
 ### Voice Wrappers
 
 [vocode-core](https://github.com/vocodedev/vocode-core)
+
 [voice-lab](https://github.com/saharmor/voice-lab)
 
 ## Document Understanding
 
 [Qwen2VL](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d)
+
 [DocOwl2](https://huggingface.co/mPLUG/DocOwl2)
 
 ## Memory
 
 [Mem0](https://github.com/mem0ai/mem0)
+
 [Letta (MemGPT)](https://github.com/letta-ai/letta)
+
 [LangChain Memory Modules](https://github.com/langchain-ai/langchain)
 
 ## Testing
 
 [eeVoice Lab](https://github.com/saharmor/voice-lab)
+
 [AgentOps](https://github.com/AgentOps-AI/agentops)
+
 [AgentBench](https://github.com/THUDM/AgentBench)
+
 [Helix](https://github.com/helixml/helix)
+
 [RAGAS](https://docs.ragas.io/en/stable/)
 
 ## Monitoring
 
 [OpenLLMetry](https://github.com/traceloop/openllmetry)
+
 [AgentOps](https://github.com/AgentOps-AI/agentops)
 
 ## Simulation
 
 [AgentVerse](https://github.com/OpenBMB/AgentVerse)
+
 [TauBench](https://github.com/sierra-research/tau-bench)
+
 [ChatArena](https://github.com/Farama-Foundation/chatarena)
+
 [AI Town](https://github.com/a16z-infra/ai-town)
+
 [Generative Agents](https://github.com/joonspk-research/generative_agents)
 
 ## Vertical Agents
@@ -142,9 +173,13 @@ https://www.apolloresearch.ai
 ### Coding Agents
 
 [OpenHands](https://github.com/All-Hands-AI/OpenHands)
+
 [Aider](https://github.com/paul-gauthier/aider)
+
 [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+
 [Codeium](https://github.com/Codeium/Codeium)
+
 [Screenshot To Code](https://github.com/abi/screenshot-to-code)
 
 ### Research Agents
